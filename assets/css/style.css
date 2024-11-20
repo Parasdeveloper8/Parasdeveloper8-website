@@ -187,10 +187,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 --------------------------------------*/
 .welcome-hero{
     display: flex;
-    align-items: center;
+    padding-top: 15vh;
+    /*align-items: center;*/
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome.webp)no-repeat;
+    background:url(../images/about/welcome-img.webp)no-repeat;
     background-size:cover;
     background-position: center;
     height:500px;
